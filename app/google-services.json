@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95735019832",
+    "project_id": "verificacion-29f9e",
+    "storage_bucket": "verificacion-29f9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95735019832:android:e7d879c0a80c14b8a3a9cd",
+        "android_client_info": {
+          "package_name": "com.erick.cursoverificacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnGxsTRceO8BKPqheReQpBdbQMhbDBsMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
